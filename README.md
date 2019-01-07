@@ -1,7 +1,7 @@
 # Praktikum-01
 #modul 1
 * latihan 1
-![alt text] (https://github.com/Ikhwan19/Praktikum-01/blob/master/tgs1/lat1tgs1.JPG)
+![alt_text] (https://github.com/Ikhwan19/Praktikum-01/blob/master/tgs1/lat1tgs1.JPG)
 * latihan 2
 ![alt text] (https://github.com/Ikhwan19/Praktikum-01/blob/master/tgs1/lat2tgs1.JPG)
 * latihan 3
