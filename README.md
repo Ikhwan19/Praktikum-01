@@ -2,7 +2,7 @@
 #modul 1
 * latihan 1 <br>
 ![alt_text](https://github.com/Ikhwan19/Praktikum-01/blob/master/tgs1/lat1tgs1.JPG)
-* latihan 2<br>
+* latihan 2 <br>
 ![alt text] (https://github.com/Ikhwan19/Praktikum-01/blob/master/tgs1/lat2tgs1.JPG)
 * latihan 3<br>
 ![alt text] (https://github.com/Ikhwan19/Praktikum-01/blob/master/tgs1/lat3tgs1.JPG)
