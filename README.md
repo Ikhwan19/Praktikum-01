@@ -10,6 +10,8 @@
 ![alt text](https://github.com/Ikhwan19/Praktikum-01/blob/master/tgs1/lat4tgs1.JPG)
 * latihan 5 <br>
 ![alt text](https://github.com/Ikhwan19/Praktikum-01/blob/master/tgs1/lat5tgs1.JPG)
+* latihan 5 <br>
+![alt text](https://github.com/Ikhwan19/Praktikum-01/blob/master/tgs1/lat5.2tgs1.JPG)
 
 #modul 2
 * latihan 1 <br>
